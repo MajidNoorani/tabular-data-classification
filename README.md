@@ -10,8 +10,8 @@ Data is downloaded from this [web page](https://archive.ics.uci.edu/dataset/848/
 - #Features: 20
 - Class Labels: edible=e, poisonous=p
 
-##Models and Implementations:
-----------------
+## Models and Implementations:
+------------------
 ### Mushroom classification using RandomForest
 File: [mushroom_classification.ipynb](mushroom_classification.ipynb)
 
