@@ -34,3 +34,5 @@ The model is evaluated using these metrics:
 <div style="text-align:center">
   <img src="https://github.com/MajidNoorani/tabular-data-classification/blob/main/assets/ConfMat.png" width="400" height="400" />
 </div>
+
+------------------
